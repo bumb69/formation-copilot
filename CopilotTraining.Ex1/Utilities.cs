@@ -9,7 +9,7 @@ namespace CopilotTraining.Ex1
         /// <summary>
         /// Calculates the sum of an array of integers.
         /// </summary>
-        /// <param name="values">The array of integers to sum.</param>
+        /// <param name="values">The array of integers to sum</param>
         /// <returns>The sum of the integers in the array. </returns>
         public static int Sum(int[]? values)
         {
