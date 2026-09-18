@@ -8,6 +8,9 @@ namespace CopilotTraining.Ex1
         public string? LastName { get; set; }
         public int Age { get; set; }
 
+        // <summary>
+        // Validates the user object.
+        // </summary>
         public bool IsValid()
         {
             if (string.IsNullOrWhiteSpace(FirstName))
