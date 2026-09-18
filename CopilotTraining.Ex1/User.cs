@@ -9,7 +9,7 @@ namespace CopilotTraining.Ex1
         public int Age { get; set; }
 
         // <summary>
-        // Validates the user object.
+        // Valide le user
         // </summary>
         public bool IsValid()
         {
