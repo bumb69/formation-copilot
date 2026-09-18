@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CopilotTraining.Ex1/CopilotTraining.Ex1.csproj" />
+  <Project Path="CopilotTraining.Tests/CopilotTraining.Tests.csproj" Id="3ad56c03-d02a-4df8-adfd-e0115474f5aa" />
+</Solution>
